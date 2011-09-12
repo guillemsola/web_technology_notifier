@@ -15,3 +15,10 @@ Philosophy
 Being a general extension that does only one thing, without any feature.
 
 Copyright (c) 2010-2011 Cyril Wack, released under the MIT license
+
+Work in progress
+----------------
+
+http://code.google.com/p/chromium/issues/detail?id=29314
+
+http://code.google.com/chrome/extensions/experimental.webRequest.html
