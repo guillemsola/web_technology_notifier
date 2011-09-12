@@ -3,7 +3,7 @@
   "content_scripts": [ {
     "js": ["web_technology_notifier.js"],
     "matches": [ "http://*/*", "https://*/*" ],
-    "run_at": "document_start"
+    "run_at": "document_end"
   } ],
   "description": "Displays the Web technology of the current page.",
   "icons": {
