@@ -1,1 +1,1 @@
-chrome.extension.sendRequest(document.documentElement.outerHTML);
+chrome.extension.sendRequest(chrome.experimental.webRequest.HttpHeaders);
